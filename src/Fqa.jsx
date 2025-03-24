@@ -1,8 +1,3 @@
-export default function Fqa({ qa }) {
-  return (
-    <div>
-      <p>{qa.q}</p>
-      <p>{qa.a}</p>
-    </div>
-  )
+export default function Fqa() {
+  return <div>AA</div>
 }
